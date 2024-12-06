@@ -1,6 +1,5 @@
-إليك ملف README بأسلوب LinkedIn لعرض مشروع **Employee Dashboard باستخدام Power BI** مع تضمين الصورة والرابط:  
 
----
+
 
 # 👩‍💼 Employee Analysis Dashboard Project  
 
